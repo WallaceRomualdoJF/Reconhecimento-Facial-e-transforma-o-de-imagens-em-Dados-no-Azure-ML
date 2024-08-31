@@ -2,7 +2,7 @@
     {
       "lines": [
         {
-          "text": "NATIONAL IDENTITY CARD",
+          "text": "Bilhete de Identidade Nacional",
           "boundingPolygon": [
             {
               "x": 1458,
@@ -292,7 +292,7 @@
           ]
         },
         {
-          "text": "HAIR: Brown",
+          "text": "CABELO: Castanho",
           "boundingPolygon": [
             {
               "x": 1004,
@@ -313,7 +313,7 @@
           ],
           "words": [
             {
-              "text": "HAIR:",
+              "text": "Cabelo:",
               "boundingPolygon": [
                 {
                   "x": 1011,
@@ -335,7 +335,7 @@
               "confidence": 0.993
             },
             {
-              "text": "Brown",
+              "text": "Castanho",
               "boundingPolygon": [
                 {
                   "x": 1168,
