@@ -6,7 +6,7 @@
     "denseCaptionsResult": {
       "values": [
         {
-          "text": "a woman sitting on a couch with a laptop and a dog",
+          "text": "Uma mulher sentanda, ligado, um, sofá, com, um, laptop, e, um, cachorro",
           "confidence": 0.8436285853385925,
           "boundingBox": {
             "x": 0,
@@ -16,7 +16,7 @@
           }
         },
         {
-          "text": "a dog standing on a rug",
+          "text": "Um cachorro em pé em um tapete",
           "confidence": 0.7493350505828857,
           "boundingBox": {
             "x": 656,
@@ -26,7 +26,7 @@
           }
         },
         {
-          "text": "a person holding a laptop",
+          "text": "Uma pessoa segurando um laptop",
           "confidence": 0.776459276676178,
           "boundingBox": {
             "x": 451,
@@ -36,7 +36,7 @@
           }
         },
         {
-          "text": "a woman sitting on a couch with a laptop",
+          "text": "Uma mulher sentada, ligado, um, sofá, com, um, laptop",
           "confidence": 0.8437909483909607,
           "boundingBox": {
             "x": 361,
@@ -46,7 +46,7 @@
           }
         },
         {
-          "text": "a white cup on a red and white striped surface",
+          "text": "Um copo branco em uma superfície listrada vermelha e branca",
           "confidence": 0.7308092713356018,
           "boundingBox": {
             "x": 568,
@@ -56,7 +56,7 @@
           }
         },
         {
-          "text": "a woman sitting on a couch with a laptop and a dog looking at it",
+          "text": "Um, mulher, sentando, ligado, um, sofá, com, um, laptop, e, um, cachorro, olhar, ele",
           "confidence": 0.8208153247833252,
           "boundingBox": {
             "x": 0,
@@ -66,7 +66,7 @@
           }
         },
         {
-          "text": "a close up of a wooden surface",
+          "text": "Um close-up de uma superfície de madeira",
           "confidence": 0.6760398745536804,
           "boundingBox": {
             "x": 353,
@@ -76,7 +76,7 @@
           }
         },
         {
-          "text": "a wooden object with a red object on top",
+          "text": "Um objeto de madeira com um objeto vermelho no topo",
           "confidence": 0.6559217572212219,
           "boundingBox": {
             "x": 463,
@@ -86,7 +86,7 @@
           }
         },
         {
-          "text": "a woman looking at a laptop",
+          "text": "Uma mulher olhando para um laptop",
           "confidence": 0.803401529788971,
           "boundingBox": {
             "x": 545,
@@ -96,7 +96,7 @@
           }
         },
         {
-          "text": "a blurry image of a window",
+          "text": "Uma imagem borrada de uma janela",
           "confidence": 0.7471383810043335,
           "boundingBox": {
             "x": 772,
